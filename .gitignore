@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Docker
+
+mysql_data
+
 # C extensions
 *.so
 
